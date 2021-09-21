@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rcreech93
 - 👀 I’m interested in all things security and system administration 
-- 🌱 I’m currently learning git,powershell,bash, and python
+- 🌱 I’m currently learning git,powershell,bash, and python, c++
 - 💞️ I’m looking to collaborate on IRC, security initiatives, or system administration 
 - 📫 How to reach me info@creechcomputerrepair.com or rcreech93@gmail.com.
 
